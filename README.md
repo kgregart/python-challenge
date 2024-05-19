@@ -4,7 +4,7 @@
 
 Create Python scripts to analyze two different scenarios:  1. The PyBank challenge delivers a script that calculates values to analyze financial records and 2. The PyPoll challenge helps a small, rural town modernize its vote-counting process.
 
-### PyBank
+### 1. PyBank
 
 ![PyBank](https://github.com/kgregart/python-challenge/blob/main/Images/revenue-per-lead.png)
 
@@ -25,7 +25,7 @@ __Results__
 ![Financial Analysis](https://github.com/kgregart/python-challenge/blob/main/Images/Financial_Analysis_Results.png)
 
 
-### PyPoll
+### 2. PyPoll
 
 ![PyPoll](https://github.com/kgregart/python-challenge/blob/main/Images/Vote_counting.png)
 
