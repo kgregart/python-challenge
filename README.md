@@ -2,7 +2,7 @@
 
 ## Instructions
 
-Create Python scripts to analyze two different scenarios:  1. The PyBank challenge delivers a script that calculates values to analyze financial records and 2. The PyPoll challenge helps a small, rural town modernize its vote-counting process.
+Create Python scripts to analyze two different scenarios:  1. The PyBank script calculates values to analyze financial records and 2. The PyPoll script will help a small, rural town modernize its vote-counting process.
 
 ### 1. PyBank
 
