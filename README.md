@@ -20,7 +20,7 @@ Develop a Python script that analyzes the budget_data.csv dataset to calculate e
 
 ### Results
 
-[Financial Analysis](https://github.com/kgregart/python-challenge/blob/main/PyBank/pyBank_output.txt) <img width="270" alt="image" src="https://github.com/kgregart/python-challenge/assets/153472472/a14f9f24-3f88-442d-9c57-8a14480894de">
+![Financial Analysis](https://github.com/kgregart/python-challenge/blob/main/Images/Financial_Analysis_Results.png)
 
 
 ### PyPoll
@@ -36,3 +36,7 @@ Develop a Python script that analyzes the votes and calculates each of the follo
 - The total number of votes each candidate won
 
 - The winner of the election based on popular vote
+
+### Results
+
+![Election Results](https://github.com/kgregart/python-challenge/blob/main/Images/Election_Results.png)
