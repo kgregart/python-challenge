@@ -20,7 +20,8 @@ Develop a Python script that analyzes the budget_data.csv dataset to calculate e
 
 ### Results
 
-![Financial Analysis](https://github.com/kgregart/python-challenge/blob/main/PyBank/pyBank_output.txt)
+[Financial Analysis](https://github.com/kgregart/python-challenge/blob/main/PyBank/pyBank_output.txt) <img width="270" alt="image" src="https://github.com/kgregart/python-challenge/assets/153472472/a14f9f24-3f88-442d-9c57-8a14480894de">
+
 
 ### PyPoll
 
