@@ -18,6 +18,9 @@ Develop a Python script that analyzes the budget_data.csv dataset to calculate e
 
 - The greatest decrease in profits (date and amount) over the entire period
 
+### Results
+
+(https://github.com/kgregart/python-challenge/blob/main/PyBank/pyBank_output.txt)
 
 ### PyPoll
 
