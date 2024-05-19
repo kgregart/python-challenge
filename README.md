@@ -6,6 +6,8 @@ Create Python scripts to analyze two different scenarios:  1. The PyBank challen
 
 ### PyBank
 
+![PyBank](https://github.com/kgregart/python-challenge/blob/main/Images/revenue-per-lead.png)
+
 Develop a Python script that analyzes the budget_data.csv dataset to calculate each of the following values:
 
 - The total number of months included in the dataset
@@ -24,6 +26,8 @@ Develop a Python script that analyzes the budget_data.csv dataset to calculate e
 
 
 ### PyPoll
+
+![PyPoll](https://github.com/kgregart/python-challenge/blob/main/Images/Vote_counting.png)
 
 Develop a Python script that analyzes the votes and calculates each of the following values using the election_data.csv dataset:
 
