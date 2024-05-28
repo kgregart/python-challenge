@@ -20,7 +20,7 @@ Develop a Python script that analyzes the budget_data.csv dataset to calculate e
 
 - The greatest decrease in profits (date and amount) over the entire period
 
-__Results__
+### PyBank Results
 
 ![Financial Analysis](https://github.com/kgregart/python-challenge/blob/main/Images/Financial_Analysis_Results.png)
 
@@ -41,6 +41,6 @@ Develop a Python script that analyzes the votes and calculates each of the follo
 
 - The winner of the election based on popular vote
 
-__Results__
+### PyPoll Results
 
 ![Election Results](https://github.com/kgregart/python-challenge/blob/main/Images/Election_Results.png)
